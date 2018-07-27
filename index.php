@@ -1,5 +1,7 @@
 <?php
+/*Création tableau associatif departement*/
   $departements = array(
+    /*Détermination des éléments clé => valeur*/
     'Aisne' => 02,
     'Nord' => 59,
     'Oise' => 60,
